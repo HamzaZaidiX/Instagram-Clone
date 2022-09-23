@@ -2,7 +2,7 @@
 
 ## 📸 Introduction:
 
-**The Famous Video and Images posting site known as `Instagram App Clone` is built from React JS and uses `Firebase Authentication`. This project first project for me in React JS.**
+**The Famous Video and Images posting site known as `Instagram App Clone` is built from React JS and uses `Firebase Authentication`. This is First and Old project for me in React JS.**
 
 ## 📸 Quick Start:
 
@@ -19,7 +19,7 @@ or
 yarn dev
 ```
 
-also link for my repo please
+also link for my repo click here please
 ```
 https://github.com/HamzaZaidiX/Instagram-Clone
 ```
